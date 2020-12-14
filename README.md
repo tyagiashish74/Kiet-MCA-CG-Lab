@@ -1,1 +1,1 @@
-# Kiet-MCA-CG-Lab
+# Kietcomputer-Graphics-Lab
